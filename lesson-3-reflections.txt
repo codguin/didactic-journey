@@ -1,0 +1,3 @@
+kendi bilgisayarımdan başka bilgisayarda değişiklik yapmam local repositorymi remote a yüklerim ve istediğim zaman interneti kullanarak 
+local repositoryme erişebilirim
+veya başka insanlarla ortak çalışma yapıyorsam ya da yapmak istersem remote kullanırım
